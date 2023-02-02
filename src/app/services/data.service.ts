@@ -15,7 +15,7 @@ export class DataService {
   public messages: Message[] = [
     {
       iphoneName: 'iPhone 14 Pro Max',
-      subject: '6.7 inch display, Longest Battery life, A16 Bionic chip',
+      subject: '6.7 inch display \n Longest Battery life \n A16 Bionic chip \n 3 camera setup',
       date: 'Released: September 7 2022',
       id: 0,
       read: true
@@ -51,7 +51,7 @@ export class DataService {
     {
       iphoneName: 'iPhone 12',
       subject: 'Last call',
-      date: 'released: September 7 2020',
+      date: 'Released: September 7 2020',
       id: 5,
       read: true
     },

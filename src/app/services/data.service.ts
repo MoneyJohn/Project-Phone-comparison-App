@@ -60,7 +60,7 @@ export class DataService {
       subject: 'Version 2',
       date: 'Released: September 7 2022',
       id: 6,
-      read: ture
+      read: true
     },
 
   ];

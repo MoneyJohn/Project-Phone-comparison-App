@@ -25,42 +25,42 @@ export class DataService {
       subject: '6.1 inch, A16 Bionic chip',
       date: 'Released: September 7 2022',
       id: 1,
-      read: false
+      read: true
     },
     {
       iphoneName: 'iPhone 14 Plus',
       subject: 'Normal iphone with a bigger screen',
       date: 'Released: September 7 2022',
       id: 2,
-      read: false
+      read: true
     },
     {
       iphoneName: 'iPhone 14',
       subject: 'Base iphone',
       date: 'Released: September 7 2022',
       id: 3,
-      read: false
+      read: true
     },
     {
       iphoneName: 'iPhone 13',
       subject: 'Almost a year old',
       date: 'Released: September 7 2021',
       id: 4,
-      read: false
+      read: true
     },
     {
       iphoneName: 'iPhone 12',
       subject: 'Last call',
       date: 'released: September 7 2020',
       id: 5,
-      read: false
+      read: true
     },
     {
       iphoneName: 'iPhone SE',
       subject: 'Version 2',
       date: 'Released: September 7 2022',
       id: 6,
-      read: false
+      read: ture
     },
 
   ];

@@ -23,6 +23,6 @@ export class ViewMessagePage implements OnInit {
   getBackButtonText() {
     const win = window as any;
     const mode = win && win.Ionic && win.Ionic.mode;
-    return mode === 'ios' ? 'Inbox' : '';
+    return mode === 'ios' ? 'iPhones' : '';
   }
 }

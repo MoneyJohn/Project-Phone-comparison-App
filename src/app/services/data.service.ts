@@ -29,36 +29,36 @@ export class DataService {
     },
     {
       iphoneName: 'iPhone 14 Plus',
-      subject: 'Report Results',
+      subject: 'Normal iphone with a bigger screen',
       date: 'Released: September 7 2022',
       id: 2,
       read: false
     },
     {
       iphoneName: 'iPhone 14',
-      subject: 'The situation',
-      date: 'Yesterday',
+      subject: 'Base iphone',
+      date: 'Released: September 7 2022',
       id: 3,
       read: false
     },
     {
       iphoneName: 'iPhone 13',
-      subject: 'Updated invitation: Swim lessons',
-      date: 'Yesterday',
+      subject: 'Almost a year old',
+      date: 'Released: September 7 2021',
       id: 4,
       read: false
     },
     {
       iphoneName: 'iPhone 12',
-      subject: 'Last minute ask',
-      date: 'Yesterday',
+      subject: 'Last call',
+      date: 'released: September 7 2020',
       id: 5,
       read: false
     },
     {
       iphoneName: 'iPhone SE',
-      subject: 'Family Calendar - Version 1',
-      date: 'Last Week',
+      subject: 'Version 2',
+      date: 'Released: September 7 2022',
       id: 6,
       read: false
     },
